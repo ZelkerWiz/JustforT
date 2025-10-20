@@ -32,6 +32,10 @@
       color: #ff4b4b;
       transition: color 0.3s;
       overflow-x: hidden;
+      background: #000;      
+      border-radius: 10px; 
+      text-shadow: 0 0 10px #ff4b4b, 0 0 20px #ff4b4b;
+      background-color: #000 !important;
     }
     .c-red { color: #ff4b4b; }
     .c-pink { color: #ff9ddf; }
